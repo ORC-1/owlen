@@ -1,0 +1,5 @@
+Fix Misaka iss
+**Include particles.js
+***Include FB, and github authentication
+**Fix all security issues and push to Amazon 
+
